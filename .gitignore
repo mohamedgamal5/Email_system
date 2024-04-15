@@ -1,0 +1,7 @@
+#backend
+/backend/node_modules/
+/backend/.env
+/backend/utils/email-system-2a226-4cceba5a0b40.json
+
+#frontend
+/frontend/node_modules/
